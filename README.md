@@ -1,0 +1,2 @@
+# gotcordflags
+Maesterbot Flag Trivia
