@@ -80,50 +80,114 @@ i "https://i.imgur.com/LUWTPR4.jpg"
 
 q "**Name the country!**"
 a "Belize"
-i ""
+i "https://i.imgur.com/D9CSLM6.jpg"
 
 q "**Name the country!**"
 a "Benin"
-i ""
+i "https://i.imgur.com/dqxiBMb.jpg"
 
 q "**Name the country!**"
 a "Bermuda"
-i ""
+i "https://i.imgur.com/EUupWXZ.jpg"
 
 q "**Name the country!**"
 a "Bhutan"
-i ""
+i "https://i.imgur.com/96OQpSM.jpg"
 
 q "**Name the country!**"
 a "Bolivia"
-i ""
+i "https://i.imgur.com/butKCBI.jpg"
 
 q "**Name the country!**"
 a "Bosnia and Herzegovina", "Bosnia", "Bosnia Herzegovina"
-i ""
+i "https://i.imgur.com/en8CMcE.jpg"
 
 q "**Name the country!**"
 a "Botswana"
-i ""
+i "https://i.imgur.com/miJqiHO.jpg"
 
 q "**Name the country!**"
 a "Brazil"
-i ""
+i "https://i.imgur.com/7YaB3AG.jpg"
 
 q "**Name the country!**"
 a "Brunei Darussalam", "Brunei"
-i ""
+i "https://i.imgur.com/5itZT2u.jpg"
 
 q "**Name the country!**"
 a "Bulgaria"
-i ""
+i "https://i.imgur.com/pn6jgWw.jpg"
 
 q "**Name the country!**"
 a "Burkina Faso", "Burkina"
-i ""
+i "https://i.imgur.com/FwDC3HI.jpg"
 
 q "**Name the country!**"
 a "Burundi"
+i "https://i.imgur.com/53JmmAD.jpg"
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
 i ""
 
 q "**Name the country!**"
