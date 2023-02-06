@@ -516,18 +516,102 @@ i "https://i.imgur.com/bFucS9e.jpg"
 
 q "**Name the country!**"
 a "Namibia"
-i ""
+i "https://i.imgur.com/VbHC6gi.jpg"
 
 q "**Name the country!**"
 a "Nauru"
-i ""
+i "https://i.imgur.com/7KgmGas.jpg"
 
 q "**Name the country!**"
 a "Nepal"
-i ""
+i "https://i.imgur.com/EBpy1Mk.jpg"
 
 q "**Name the country!**"
 a "Netherlands"
+i "https://i.imgur.com/CReGjtJ.jpg"
+
+q "**Name the country!**"
+a "New Zealand"
+i "https://i.imgur.com/TIwmpUL.jpg"
+
+q "**Name the country!**"
+a "Nicaragua"
+i "https://i.imgur.com/dRQrALH.jpg"
+
+q "**Name the country!**"
+a "Norway"
+i "https://i.imgur.com/etma7AN.jpg"
+
+q "**Name the country!**"
+a "Oman"
+i "https://i.imgur.com/eOjVSrw.jpg"
+
+q "**Name the country!**"
+a "Pakistan"
+i ""
+
+q "**Name the country!**"
+a "Palau"
+i ""
+
+q "**Name the country!**"
+a "Palestine"
+i ""
+
+q "**Name the country!**"
+a "Panama"
+i ""
+
+q "**Name the country!**"
+a "Papua New Guinea"
+i ""
+
+q "**Name the country!**"
+a "Paraguay"
+i ""
+
+q "**Name the country!**"
+a "Peru"
+i ""
+
+q "**Name the country!**"
+a "Philippines"
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
 i ""
 
 q "**Name the country!**"
