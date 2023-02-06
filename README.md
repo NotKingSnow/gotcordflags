@@ -315,6 +315,174 @@ a "Guyana"
 i "https://i.imgur.com/U9hmJxI.jpg"
 
 q "**Name the country!**"
+a "Haiti"
+i "https://i.imgur.com/yQYj5v7.jpg"
+
+q "**Name the country!**"
+a "Honduras"
+i "https://i.imgur.com/B9y6xUF.jpg"
+
+q "**Name the country!**"
+a "Hungary"
+i "https://i.imgur.com/CyWXh1z.jpg"
+
+q "**Name the country!**"
+a "Iceland"
+i "https://i.imgur.com/O4tLTNw.jpg"
+
+q "**Name the country!**"
+a "India"
+i "https://i.imgur.com/VKeyyqE.jpg"
+
+q "**Name the country!**"
+a "Indonesia"
+i "https://i.imgur.com/BBTostu.jpg"
+
+q "**Name the country!**"
+a "Iran"
+i "https://i.imgur.com/2WbsbuQ.jpg"
+
+q "**Name the country!**"
+a "Iraq"
+i "https://i.imgur.com/zQuISxO.jpg"
+
+q "**Name the country!**"
+a "Ireland"
+i "https://i.imgur.com/IicKu0H.jpg"
+
+q "**Name the country!**"
+a "Israel"
+i "https://i.imgur.com/7k2L2tg.jpg"
+
+q "**Name the country!**"
+a "Italy"
+i "https://i.imgur.com/254wmeZ.jpg"
+
+q "**Name the country!**"
+a "Jamaica"
+i "https://i.imgur.com/dq6n1OB.jpg"
+
+q "**Name the country!**"
+a "Japan"
+i "https://i.imgur.com/CHEN1Yx.jpg"
+
+q "**Name the country!**"
+a "Jordan"
+i "https://i.imgur.com/9Em8t9y.jpg"
+
+q "**Name the country!**"
+a "Kazakhstan"
+i "https://i.imgur.com/EYiL6C3.jpg"
+
+q "**Name the country!**"
+a "Kenya"
+i "https://i.imgur.com/TcDMkey.jpg"
+
+q "**Name the country!**"
+a "Kiribati"
+i "https://i.imgur.com/EUWb1iB.jpg"
+
+q "**Name the country!**"
+a "North Korea"
+i "https://i.imgur.com/CY4nC0a.jpg"
+
+q "**Name the country!**"
+a "South Korea"
+i "https://i.imgur.com/NiCrN9m.jpg"
+
+q "**Name the country!**"
+a "Kosovo"
+i "https://i.imgur.com/JaGbcsb.jpg"
+
+q "**Name the country!**"
+a "Kuwait"
+i "https://i.imgur.com/g5dny0d.jpg"
+
+q "**Name the country!**"
+a "Kyrgyzstan"
+i "https://i.imgur.com/Kps1JPN.jpg"
+
+q "**Name the country!**"
+a "Laos", "Lao"
+i ""
+
+q "**Name the country!**"
+a "Latvia"
+i ""
+
+q "**Name the country!**"
+a "Lebanon"
+i ""
+
+q "**Name the country!**"
+a "Lesotho"
+i ""
+
+q "**Name the country!**"
+a "Liberia"
+i ""
+
+q "**Name the country!**"
+a "Libya"
+i ""
+
+q "**Name the country!**"
+a "Liechtenstein"
+i ""
+
+q "**Name the country!**"
+a "Lithuania"
+i ""
+
+q "**Name the country!**"
+a "Luxemourg"
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
+a ""
+i ""
+
+q "**Name the country!**"
 a ""
 i ""
 
