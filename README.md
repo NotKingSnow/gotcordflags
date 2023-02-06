@@ -548,51 +548,51 @@ i "https://i.imgur.com/eOjVSrw.jpg"
 
 q "**Name the country!**"
 a "Pakistan"
-i ""
+i "https://i.imgur.com/tbovfgV.jpg"
 
 q "**Name the country!**"
 a "Palau"
-i ""
+i "https://i.imgur.com/IPsmmpU.jpg"
 
 q "**Name the country!**"
 a "Palestine"
-i ""
+i "https://i.imgur.com/0Y6Fghg.jpg"
 
 q "**Name the country!**"
 a "Panama"
-i ""
+i "https://i.imgur.com/vcaMp4v.jpg"
 
 q "**Name the country!**"
 a "Papua New Guinea"
-i ""
+i "https://i.imgur.com/MJYS4M3.jpg"
 
 q "**Name the country!**"
 a "Paraguay"
-i ""
+i "https://i.imgur.com/Mduetu4.jpg"
 
 q "**Name the country!**"
 a "Peru"
-i ""
+i "https://i.imgur.com/gAf0B8L.jpg"
 
 q "**Name the country!**"
 a "Philippines"
-i ""
+i "https://i.imgur.com/ADexRkQ.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Poland"
+i "https://i.imgur.com/RrwwDud.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Portugal"
+i "https://i.imgur.com/XWKuWbf.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Puerto Rico"
+i "https://i.imgur.com/1L1T5Wv.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Qatar"
+i "https://i.imgur.com/aV7dKtT.jpg"
 
 q "**Name the country!**"
 a ""
