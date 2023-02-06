@@ -127,64 +127,192 @@ a "Burundi"
 i "https://i.imgur.com/53JmmAD.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Cambodia"
+i "https://i.imgur.com/er820sO.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Cameroon"
+i "https://i.imgur.com/0hZkfm8.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Canada"
+i "https://i.imgur.com/InL8HUm.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Cape Verde"
+i "https://i.imgur.com/Sn9GEyV.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Central African Republic", "CAF"
+i "https://i.imgur.com/pnjERGO.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Chad"
+i "https://i.imgur.com/eKREcx9.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Chile"
+i "https://i.imgur.com/vjaHfYe.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "China"
+i "https://i.imgur.com/EWNgzHY.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Colombia"
+i "https://i.imgur.com/8XOPbkq.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Comoros"
+i "https://i.imgur.com/Gj97nq7.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Democratic Republic of the Congo", "DRC", "Congo-Kinshasa"
+i "https://i.imgur.com/dwOXwje.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Republic of the Congo", "ROC", "Congo-Brazzaville"
+i "https://i.imgur.com/31JSoDa.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Costa Rica"
+i "https://i.imgur.com/Eev8BnY.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Côte d'Ivoire", "Ivory Coast", "Cote d'Ivorie"
+i "https://i.imgur.com/LVTOIeK.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Croatia"
+i "https://i.imgur.com/4DVzMGY.jpg"
+
+q "**Name the country!**"
+a "Cuba"
+i "https://i.imgur.com/xPIxenw.jpg"
+
+q "**Name the country!**"
+a "Cyprus"
+i "https://i.imgur.com/T7CKqBf.jpg"
+
+q "**Name the country!**"
+a "The Czech Republic", "Czech Republic"
+i "https://i.imgur.com/93RXQhK.jpg"
+
+q "**Name the country!**"
+a "Denmark"
+i "https://i.imgur.com/g38Rl29.jpg"
+
+q "**Name the country!**"
+a "Djibouti"
+i "https://i.imgur.com/329vjoh.jpg"
+
+q "**Name the country!**"
+a "Dominica"
+i "https://i.imgur.com/x3c0MTi.jpg"
+
+q "**Name the country!**"
+a "Dominican Republic"
+i "https://i.imgur.com/3BTIzwa.jpg"
+
+q "**Name the country!**"
+a "Ecuador"
+i "https://i.imgur.com/Ex6WvPO.jpg"
+
+q "**Name the country!**"
+a "Eqypt"
+i "https://i.imgur.com/gsUAjrX.jpg"
+
+q "**Name the country!**"
+a "El Salvador"
+i "https://i.imgur.com/SGkp98X.jpg"
+
+q "**Name the country!**"
+a "Equatorial Guinea"
+i "https://i.imgur.com/K5Lx0or.jpg"
+
+q "**Name the country!**"
+a "Eritrea"
+i "https://i.imgur.com/NwLlyYY.jpg"
+
+q "**Name the country!**"
+a "Estonia"
+i "https://i.imgur.com/pDirYMy.jpg"
+
+q "**Name the country!**"
+a "Ethiopia"
+i "https://i.imgur.com/MRtPhym.jpg"
+
+q "**Name the country!**"
+a "Faroe Islands"
+i "https://i.imgur.com/eKczKAu.jpg"
+
+q "**Name the country!**"
+a "Fiji"
+i "https://i.imgur.com/hW04uje.jpg"
+
+q "**Name the country!**"
+a "Finland"
+i "https://i.imgur.com/6l8Clge.jpg"
+
+q "**Name the country!**"
+a "France"
+i "https://i.imgur.com/hRJcsaI.jpg"
+
+q "**Name the country!**"
+a "French Polynesia"
+i "https://i.imgur.com/t8zzA6b.jpg"
+
+q "**Name the country!**"
+a "Gabon"
+i "https://i.imgur.com/jIiWxoB.jpg"
+
+q "**Name the country!**"
+a "The Gambia"
+i "https://i.imgur.com/4OeJIR9.jpg"
+
+q "**Name the country!**"
+a "Georgia"
+i "https://i.imgur.com/D6Cfb7m.jpg"
+
+q "**Name the country!**"
+a "Germany"
+i "https://i.imgur.com/gnwQcK6.jpg"
+
+q "**Name the country!**"
+a "Ghana"
+i "https://i.imgur.com/OlysKwK.jpg"
+
+q "**Name the country!**"
+a "Greece"
+i "https://i.imgur.com/OFNoy9q.jpg"
+
+q "**Name the country!**"
+a "Greenland"
+i "https://i.imgur.com/BwkTYA2.jpg"
+
+q "**Name the country!**"
+a "Grenada"
+i "https://i.imgur.com/HZ3qw79.jpg"
+
+q "**Name the country!**"
+a "Guam"
+i "https://i.imgur.com/fANJCaV.jpg"
+
+q "**Name the country!**"
+a "Guatemala"
+i "https://i.imgur.com/cn5dOJK.jpg"
+
+q "**Name the country!**"
+a "Guinea"
+i "https://i.imgur.com/UREtare.jpg"
+
+q "**Name the country!**"
+a "Guinea-Bissau", "Guinea Bissau", "Bissau"
+i "https://i.imgur.com/YLiHytG.jpg"
+
+q "**Name the country!**"
+a "Guyana"
+i "https://i.imgur.com/U9hmJxI.jpg"
 
 q "**Name the country!**"
 a ""
