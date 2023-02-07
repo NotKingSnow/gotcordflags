@@ -167,7 +167,7 @@ a "Comoros"
 i "https://i.imgur.com/Gj97nq7.jpg"
 
 q "**Name the country!**"
-a "Democratic Republic of the Congo", "DRC", "Congo-Kinshasa"
+a "Democratic Republic of the Congo", "DRC", "Congo-Kinshasa", "Zaire"
 i "https://i.imgur.com/dwOXwje.jpg"
 
 q "**Name the country!**"
@@ -595,73 +595,269 @@ a "Qatar"
 i "https://i.imgur.com/aV7dKtT.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Romania"
+i "https://i.imgur.com/ZCKZ7RF.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Russian Federation", "Russia"
+i "https://i.imgur.com/8DHj2WV.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Rwanda"
+i "https://i.imgur.com/Bj0d7wY.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "St. Helena", "St Helena"
+i "https://i.imgur.com/lxUEqmU.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "St. Kitts & Nevis", "St Kitts & Nevis", "St. Kitts", "St Kitts", "St Kitts and Nevis", "St. Kitts and Nevis"
+i "https://i.imgur.com/XpPVuOn.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Saint Lucia", "St Lucia"
+i "https://i.imgur.com/RNcPI4J.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "St. Pierre & Miquelon", ""St Pierre & Miquelon", "St. Pierre", "St Pierre", "St Pierre and Miquelon", "St. Pierre and Miquelon"
+i "https://i.imgur.com/pS8OPez.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "St. Vincent & the Grenadines", ""St Vincent & the Grenadines", "St. Vincent", "St Vincent", "St Vincent and the Grenadines", "St. Vincent and the Grenadines"
+i "https://i.imgur.com/FO9eWWF.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Samoa"
+i "https://i.imgur.com/g2097it.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "San Marino"
+i "https://i.imgur.com/sOyBisl.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Sao Tome & Principe", "Sao Tome", "Principe", "Sao Tome and Principe"
+i "https://i.imgur.com/RJbMwIB.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Saudi Arabia"
+i "https://i.imgur.com/jUrGE11.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Seborga"
+i "https://i.imgur.com/lOrNadP.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Senegal"
+i "https://i.imgur.com/71gUg7A.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Serbia", "Yugoslavia"
+i "https://i.imgur.com/up70b5v.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Seychelles"
+i "https://i.imgur.com/HSeVIQJ.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Sierra Leone"
+i "https://i.imgur.com/2sCWmuE.jpg"
 
 q "**Name the country!**"
-a ""
-i ""
+a "Singapore"
+i "https://i.imgur.com/EBhAtR1.jpg"
+
+q "**Name the country!**"
+a "Sint Maarten"
+i "https://i.imgur.com/a2woTqo.jpg"
+
+q "**Name the country!**"
+a "Slovakia"
+i "https://i.imgur.com/Ld9Q7WF.jpg"
+
+q "**Name the country!**"
+a "Slovenia"
+i "https://i.imgur.com/sCcYlbx.jpg"
+
+q "**Name the country!**"
+a "Solomon Islands"
+i "https://i.imgur.com/PZ7y3JY.jpg"
+
+q "**Name the country!**"
+a "Somalia"
+i "https://i.imgur.com/QfalWRJ.jpg"
+
+q "**Name the country!**"
+a "South Africa"
+i "https://i.imgur.com/W7dtrQ8.jpg"
+
+q "**Name the country!**"
+a "South Sudan"
+i "https://i.imgur.com/TkOcgxD.jpg"
+
+q "**Name the country!**"
+a "Spain"
+i "https://i.imgur.com/qdocV76.jpg"
+
+q "**Name the country!**"
+a "Sri Lanka"
+i "https://i.imgur.com/KLj4NrS.jpg"
+
+q "**Name the country!**"
+a "The Sudan", "Sudan"
+i "https://i.imgur.com/5paI3oF.jpg"
+
+q "**Name the country!**"
+a "Suriname"
+i "https://i.imgur.com/aIBHpsU.jpg"
+
+q "**Name the country!**"
+a "Swaziland"
+i "https://i.imgur.com/TCIrU7O.jpg"
+
+q "**Name the country!**"
+a "Sweden"
+i "https://i.imgur.com/nGk9CMQ.jpg"
+
+q "**Name the country!**"
+a "Switzerland"
+i "https://i.imgur.com/J1Gzdae.jpg"
+
+q "**Name the country!**"
+a "Syria"
+i "https://i.imgur.com/l3u3nRS.jpg"
+
+q "**Name the country!**"
+a "Taiwan"
+i "https://i.imgur.com/ucLUVYl.jpg"
+
+q "**Name the country!**"
+a "Tajikistan"
+i "https://i.imgur.com/WRUbMYc.jpg"
+
+q "**Name the country!**"
+a "Tanzania"
+i "https://i.imgur.com/tg5b3UH.jpg"
+
+q "**Name the country!**"
+a "Thailand"
+i "https://i.imgur.com/q3axnV7.jpg"
+
+q "**Name the country!**"
+a "Tibet"
+i "https://i.imgur.com/4kiGJcV.jpg"
+
+q "**Name the country!**"
+a "Timor-Leste", "Timor Leste"
+i "https://i.imgur.com/I79Y2An.jpg"
+
+q "**Name the country!**"
+a "Togo"
+i "https://i.imgur.com/MiEcYwl.jpg"
+
+q "**Name the country!**"
+a "Tokelau"
+i "https://i.imgur.com/tSm1LsW.jpg"
+
+q "**Name the country!**"
+a "Tonga"
+i "https://i.imgur.com/Nl6l8YL.jpg"
+
+q "**Name the country!**"
+a "Trinidad & Tobago", "Trinidad and Tobago", "Trinidad Tobago", "Trinidad", "Tobago", "TT"
+i "https://i.imgur.com/aDd0qm1.jpg"
+
+q "**Name the country!**"
+a "Tristan da Cunha"
+i "https://i.imgur.com/PEG9Uni.jpg"
+
+q "**Name the country!**"
+a "Tunisia"
+i "https://i.imgur.com/8VKgKFc.jpg"
+
+q "**Name the country!**"
+a "Turkey"
+i "https://i.imgur.com/N1GRg9X.jpg"
+
+q "**Name the country!**"
+a "Turkmenistan"
+i "https://i.imgur.com/VOYAPkT.jpg"
+
+q "**Name the country!**"
+a "Turks & Caicos Islands", "Turks and Caicos Islands", "Turks & Caicos", "Turks and Caicos"
+i "https://i.imgur.com/J98JSFD.jpg"
+
+q "**Name the country!**"
+a "Tuvalu"
+i "https://i.imgur.com/UBvX3Lu.jpg"
+
+q "**Name the country!**"
+a "Texas"
+i "https://i.imgur.com/w0CFw00.jpg"
+
+q "**Name the country!**"
+a "Uganda"
+i "https://i.imgur.com/Spf8Z7J.jpg"
+
+q "**Name the country!**"
+a "Ukraine"
+i "https://i.imgur.com/wigGyeI.jpg"
+
+q "**Name the country!**"
+a "United Arab Emirates", "UAE"
+i "https://i.imgur.com/oOJuHvE.jpg"
+
+q "**Name the country!**"
+a "United Kingdom of Great Britain and Northern Ireland", "United Kingdom", "UK", "England", "Britain", "Great Britain", "GB"
+i "https://i.imgur.com/qjCMXTf.jpg"
+
+q "**Name the country!**"
+a "United States of America", "USA", "US", "United States"
+i "https://i.imgur.com/PLaLHTx.jpg"
+
+q "**Name the country!**"
+a "Uruguay"
+i "https://i.imgur.com/PSoR9PE.jpg"
+
+q "**Name the country!**"
+a "Uzbekistan"
+i "https://i.imgur.com/6gS6aXP.jpg"
+
+q "**Name the country!**"
+a "Vanuatu"
+i "https://i.imgur.com/jjzMV5W.jpg"
+
+q "**Name the country!**"
+a "Vatican City", "Holy See", "The Vatican", "Vatican"
+i "https://i.imgur.com/a0catBG.jpg"
+
+q "**Name the country!**"
+a "Venezuela"
+i "https://i.imgur.com/PE4LsZ5.jpg"
+
+q "**Name the country!**"
+a "Vietnam", "Viet Nam"
+i "https://i.imgur.com/ZQFi1S8.jpg"
+
+q "**Name the country!**"
+a "US Virgin Islands", "Virgin Islands"
+i "https://i.imgur.com/2ueMwSa.jpg"
+
+q "**Name the country!**"
+a "Wake Island"
+i "https://i.imgur.com/SVevSGQ.jpg"
+
+q "**Name the country!**"
+a "Wallis & Futuna", "Wallis and Futuna", "Wallis", "Futuna"
+i "https://i.imgur.com/xNR0H1a.jpg"
+
+q "**Name the country!**"
+a "Yemen"
+i "https://i.imgur.com/Hf3LTOK.jpg"
+
+q "**Name the country!**"
+a "Zambia"
+i "https://i.imgur.com/26qxwfR.jpg"
+
+q "**Name the country!**"
+a "Zimbabwe"
+i "https://i.imgur.com/JUIR7t4.jpg"
